@@ -4,7 +4,7 @@ import Link from "next/link";
 import {
   Instagram,
   Facebook,
-  Twitter,
+  Youtube,
   Mail,
   Phone,
   MapPin,
@@ -21,7 +21,7 @@ export const socialLinks = [
     href: "https://www.facebook.com/profile.php?id=61576891907450",
     label: "Facebook",
   },
-  { icon: Twitter, href: "#", label: "Twitter" },
+  { icon: Youtube, href: "https://www.youtube.com/@AventuraKeralaHolidays", label: "Youtube" },
 ];
 
 // Navigation links configuration
