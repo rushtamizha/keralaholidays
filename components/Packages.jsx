@@ -61,7 +61,7 @@ const PackageCard = ({ pkg }) => {
   const innerSwiperRef = useRef(null);
 
   const handleWhatsAppRedirect = () => {
-    const phoneNumber = "9182816741080";
+    const phoneNumber = "918281674180";
     // Constructing a bold, clear message for your WhatsApp
     const message = `*New Inquiry: Aventura Kerala Holidays*%0A` +
                     `--------------------------%0A` +
