@@ -140,7 +140,7 @@ const Footer = () => {
               </p>
             </div>
             <Link
-              href="https://wa.me/919000000000"
+              href="https://wa.me/918281674180"
               target="_blank"
               className="w-full bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-4 rounded-2xl flex items-center justify-center gap-2 transition-all active:scale-95 group"
             >
