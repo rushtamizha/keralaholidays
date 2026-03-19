@@ -21,7 +21,7 @@ import Link from "next/link";
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
-  const [isOpen, setIsOpen] = useState(false);const phoneNumber = "+918281674108";
+  const [isOpen, setIsOpen] = useState(false);const phoneNumber = "+918281674180";
 
   // Toggle background on scroll
   useEffect(() => {
