@@ -66,7 +66,6 @@ const PackageCard = ({ pkg }) => {
     const message = `*New Inquiry: Aventura Kerala Holidays*%0A` +
                     `--------------------------%0A` +
                     `*Package:* ${pkg.title}%0A` +
-                    `*Duration:* ${pkg.duration}%0A` +
                     `--------------------------%0A` +
                     `Hi, I'm interested in the ${pkg.title} package. Please share more details and the best pricing.`;
 
