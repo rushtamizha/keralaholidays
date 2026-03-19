@@ -18,7 +18,7 @@ export const metadata = {
     shortcut: '/aventura-logo.png',
     apple: '/aventura-logo.png',
   },
-  metadataBase: new URL('https://www.aventurakerala.com'),
+  metadataBase: new URL('https://aventurakeralaholidays.com/'),
   title: {
     default: "Aventura Kerala Holidays | Best Kerala Tour Packages 2026",
     template: "%s | Aventura Kerala Holidays",
@@ -31,7 +31,7 @@ export const metadata = {
   openGraph: {
     title: "Aventura Kerala Holidays | Authentic Kerala Experiences",
     description: "Discover God's Own Country with premium hand-picked resorts and customized itineraries.",
-    url: "https://www.aventurakerala.com",
+    url: "https://aventurakeralaholidays.com/",
     siteName: "Aventura Kerala Holidays",
     images: [{ url: "/packages/alleppey-backwater-tour.jpg", width: 1200, height: 630 }],
     locale: "en_IN",
@@ -56,8 +56,8 @@ export default function RootLayout({ children }) {
     "@type": "TravelAgency",
     "name": "Aventura Kerala Holidays",
     "image": "https://www.aventurakerala.com/og-image.jpg",
-    "url": "https://www.aventurakerala.com",
-    "telephone": "+9182816741080",
+    "url": "https://aventurakeralaholidays.com/",
+    "telephone": "+918281674180",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Munnar",
