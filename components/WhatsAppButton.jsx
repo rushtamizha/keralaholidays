@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { MessageCircle } from 'lucide-react';
 
 const WhatsAppButton = () => {
-  const phoneNumber = "9182816741080";
+  const phoneNumber = "918281674180";
   const message = "Hi Aventura! I'm looking for a premium Kerala tour package. Can you help me?";
 
   const handleClick = () => {
