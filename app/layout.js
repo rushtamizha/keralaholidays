@@ -18,6 +18,9 @@ export const metadata = {
     shortcut: '/aventura-logo.png',
     apple: '/aventura-logo.png',
   },
+  verification: {
+    google: "3pKDN0SqkNYeRQvOyN1cUa--ccFkwn99LKhHB927Ag4",
+  },
   metadataBase: new URL('https://aventurakeralaholidays.com/'),
   title: {
     default: "Aventura Kerala Holidays | Best Kerala Tour Packages 2026",
