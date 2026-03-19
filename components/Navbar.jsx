@@ -152,19 +152,17 @@ const Navbar = () => {
               ))}
 
               <div className="mt-2 pt-4 border-t border-emerald-50">
-                <motion.a
-                  href={`tel:${phoneNumber}`}
+                <motion.div
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                   className="block w-full"
                 >
-                  <Link href="/contact">
-                  <button className="flex items-center justify-center gap-3 w-full bg-emerald-800 text-white py-4 rounded-2xl font-bold transition-all shadow-lg hover:bg-emerald-900 active:opacity-90">
+                  <Link href="/contact" className="flex items-center justify-center gap-3 w-full bg-emerald-800 text-white py-4 rounded-2xl font-bold transition-all shadow-lg hover:bg-emerald-900 active:opacity-90">
                     <PhoneCall size={18} />
                     Contact
-                  </button>
                   </Link>
-                </motion.a>
+
+                </motion.div>
               </div>
             </div>
           </motion.div>
