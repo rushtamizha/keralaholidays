@@ -49,7 +49,7 @@ const Hero = () => {
 
   const handleWhatsAppRedirect = (e) => {
     e.preventDefault();
-    const phoneNumber = "9182816741080";
+    const phoneNumber = "918281674180";
     
     const message = `*New Inquiry: Aventura Kerala*%0A` +
                     `--------------------------%0A` +
