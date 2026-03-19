@@ -15,7 +15,7 @@ import {
 
 // Social links configuration
 export const socialLinks = [
-  { icon: Instagram, href: "#", label: "Instagram" },
+  { icon: Instagram, href: "https://www.instagram.com/aventurakeralaholidays?igsh=bGVuZW5weWFueWF0", label: "Instagram" },
   {
     icon: Facebook,
     href: "https://www.facebook.com/profile.php?id=61576891907450",
@@ -120,7 +120,7 @@ const Footer = () => {
               <li className="flex gap-4 items-center">
                 <Phone className="text-emerald-500 shrink-0" size={20} />
                 <a
-                  href="tel:+9182816741080"
+                  href="tel:+918281674180"
                   className="text-emerald-50/60 text-sm hover:text-white transition-colors"
                 >
                   +91 8281674180
