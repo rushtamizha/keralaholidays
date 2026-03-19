@@ -55,7 +55,7 @@ export default function RootLayout({ children }) {
     "@context": "https://schema.org",
     "@type": "TravelAgency",
     "name": "Aventura Kerala Holidays",
-    "image": "https://www.aventurakerala.com/og-image.jpg",
+    "image": "https://www.aventurakerala.com/packages/alleppey-backwater-tour.jpg",
     "url": "https://aventurakeralaholidays.com/",
     "telephone": "+918281674180",
     "address": {
