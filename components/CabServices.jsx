@@ -43,7 +43,7 @@ const CabServices = () => {
   ];
 
   const handleBooking = (cab) => {
-    const phoneNumber = "919000000000"; 
+    const phoneNumber = "918281674180"; 
     const message = `*Taxi Booking Inquiry*%0a--------------------------%0a*Route:* ${cab.route}%0a*Vehicle:* ${cab.vehicle}%0a*Rate:* ₹${cab.price}%0a--------------------------%0aPlease confirm availability.`;
     window.open(`https://wa.me/${phoneNumber}?text=${message}`, '_blank');
   };
